@@ -1,0 +1,23 @@
+body {
+  font-family: sans-serif;
+  font-size: 1.1em;
+  padding: .5em 3em 1em 3em;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "kern";
+  -webkit-font-feature-settings: "kern";
+  -moz-font-feature-settings: "kern";
+  -moz-font-feature-settings: "kern=1";
+}
+
+.site-header {
+  text-align: center;
+}
+
+.site-footer {
+  text-align: center;
+  margin-top: 2em;
+}
+
+.site-footer li {
+  display: inline-block;
+}
