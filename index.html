@@ -3,14 +3,14 @@ layout: default
 ---
 
 <h2>About</h2>
-  <p>I am testing out github.io pages</p>
+<p>I am testing out github.io pages</p>
 
-  <h2>Posts</h2> 
+<h2>Posts</h2> 
 
-  <ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-  </ul>
+<ul>
+	{% for post in site.posts %}
+	<li>
+		<a href="{{ post.url }}">{{ post.title }}</a>
+	</li>
+	{% endfor %}
+</ul>
