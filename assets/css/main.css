@@ -19,7 +19,12 @@ a:hover {
 }
 
 a:visited {
-  color: #FF4B02;;
+  color: #FF4B02;
+}
+
+.wrapper {
+  min-height: 100%;
+  position: relative;
 }
 
 .site-header {
