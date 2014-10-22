@@ -25,6 +25,7 @@ a:visited {
 .wrapper {
   min-height: 100%;
   position: relative;
+  clear: both;
 }
 
 .site-header {
