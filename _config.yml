@@ -1,2 +1,6 @@
 # Site settings
 title: Scott Wilcox
+collections:
+    projects:
+        output: true
+
