@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Lorem Ipsum
+title: New Test Post
 author: Scott Wilcox
-date: 2014-09-29 21:32:30
+date: 2014-11-08 10:49:30
 categories: posts
 description: Lorem ipsum dolor sit amet
 ---

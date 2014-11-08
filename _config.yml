@@ -1,6 +1,3 @@
-# Site settings
+name: Scott Wilcox
 title: Scott Wilcox
-collections:
-    projects:
-        output: true
-
+description: "Scott Wilcox - A personal site for testing out github.io pages, postings and projects"

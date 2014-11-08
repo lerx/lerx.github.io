@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Homepage
+title: Projects
 author: Scott Wilcox
 date: 2014-10-29 17:07:30
 categories: projects
